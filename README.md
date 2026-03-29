@@ -1,0 +1,5 @@
+
+#LEETCODE JOURNEY
+
+## Day 1
+-TwoSumII 
