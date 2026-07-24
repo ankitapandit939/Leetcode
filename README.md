@@ -21,6 +21,7 @@
 | [0016-3sum-closest](https://github.com/ankitapandit939/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ankitapandit939/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ankitapandit939/Leetcode/tree/master/0075-sort-colors) |
+| [0844-backspace-string-compare](https://github.com/ankitapandit939/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,16 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/ankitapandit939/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ankitapandit939/Leetcode/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ankitapandit939/Leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/ankitapandit939/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
